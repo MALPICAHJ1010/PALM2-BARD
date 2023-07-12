@@ -5,7 +5,7 @@ This is the backend for CharBot, an AI-powered chatbot that can emulate the styl
 ## Features
 
 - Character-based chatbot: The chatbot can emulate the style and personality of various characters.
-- AI-powered: The chatbot uses the PaLM2 model from OpenAI to generate responses.
+- AI-powered: The chatbot uses the PaLM2 model from Google to generate responses.
 - RESTful API: The backend provides a RESTful API for the front-end application to interact with.
 
 ## Installation
