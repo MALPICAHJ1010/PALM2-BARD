@@ -7,7 +7,7 @@ CharBot is an AI-powered chatbot that can emulate the style and personality of v
 ## Features
 
 - Character-based chatbot: The chatbot can emulate the style and personality of various characters.
-- AI-powered: The chatbot uses the PaLM2 model from OpenAI to generate responses.
+- AI-powered: The chatbot uses the PaLM2 model from Google to generate responses.
 - Interactive UI: The application provides a user-friendly interface for interacting with the chatbot.
 
 ## Installation
@@ -16,11 +16,11 @@ To run this project, you will need to have Node.js and npm installed on your mac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/septiannugraha/palm2-charbot.git
+   git clone https://github.com/MALPICAHJ1010/PALM2-BARD.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd palm2-charbot
+   cd CHAT-FRONT
    ```
 3. Install the dependencies:
    ```bash
@@ -30,7 +30,7 @@ To run this project, you will need to have Node.js and npm installed on your mac
    ```bash
    npm start
    ```
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:3000` or `http://localhost:3000` if previous in use.
 
 ## Usage
 
