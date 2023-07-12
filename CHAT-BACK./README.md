@@ -14,11 +14,11 @@ To run this project, you will need to have Python and pip installed on your mach
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/septiannugraha/palm2-charbot-backend.git
+   git clone https://github.com/MALPICAHJ1010/PALM2-BARD.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd palm2-charbot-backend
+   cd CHAT-BACK.
    ```
 3. Install the dependencies:
    ```bash
